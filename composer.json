@@ -22,7 +22,7 @@
 
     "require": {
         "yiisoft/yii2": "=2.0.7",
-        "p2made/yii2-p2y2-things": "=1.0.7-dev"
+        "p2made/yii2-p2y2-things": "=1.0.7.x-dev"
     },
     "autoload": {
         "psr-4": {
