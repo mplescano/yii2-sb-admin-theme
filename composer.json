@@ -16,19 +16,12 @@
             "homepage": "https://github.com/p2made"
         }
     ],
-    "repositories":
-    [
-            {
-                "type": "vcs",
-                "url": "https://github.com/mplescano/yii2-p2y2-things"
-            }
-    ],
     "version": "1.2.6",
-    "minimum-stability": "dev",
+    "minimum-stability": "stable",
 
     "require": {
         "yiisoft/yii2": "=2.0.7",
-        "p2made/yii2-p2y2-things": "1.0.7.x-dev"
+        "p2made/yii2-p2y2-things": "1.0.7"
     },
     "autoload": {
         "psr-4": {
