@@ -16,7 +16,13 @@
             "homepage": "https://github.com/p2made"
         }
     ],
-
+    "repositories":
+    [
+            {
+                "type": "vcs",
+                "url": "https://github.com/mplescano/yii2-p2y2-things"
+            }
+    ],
     "minimum-stability": "dev",
 
     "require": {
