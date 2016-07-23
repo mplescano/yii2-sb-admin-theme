@@ -23,6 +23,7 @@
                 "url": "https://github.com/mplescano/yii2-p2y2-things"
             }
     ],
+    "version": "1.2.6",
     "minimum-stability": "stable",
 
     "require": {
